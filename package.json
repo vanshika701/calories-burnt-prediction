@@ -1,0 +1,11 @@
+{
+  "name": "calories-burnt-prediction",
+  "version": "1.0.0",
+  "description": "Calories Burnt Prediction Web Application",
+  "scripts": {
+    "build": "mkdir -p dist && cp -r static/* dist/ && cp -r templates/* dist/"
+  },
+  "dependencies": {
+    "bootstrap": "^5.1.0"
+  }
+} 
